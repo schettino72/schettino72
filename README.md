@@ -1,6 +1,33 @@
-### Hi there 👋
+### 💻 What I Use
+
+
+<table border="none">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" /><br/>
+      Ubuntu
+    </td>
+    <td>
+     <img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" width="48" height="48" alt="fish" /><br/>
+     <a href="https://github.com/fish-shell/fish-shell">fish</a>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" width="48" height="48" alt="Emacs" /><br/>
+      Emacs
+    </td>
+  </tr>
+</table>
+  
+
+<!-- <img src="" width="48" height="48" alt="" /> -->
+
+### Python Projects
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="48" height="48" alt="Python" />
+
 
 <!--
+
 **schettino72/schettino72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
