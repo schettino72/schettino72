@@ -1,43 +1,22 @@
 ### 💻 How I Code
 
-
-<table border="0">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" /><br/>
-      Ubuntu
-    </td>
-    <td align="center" width="96">
-     <img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" width="48" height="48" alt="fish" /><br/>
-     <a href="https://github.com/fish-shell/fish-shell">fish</a>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" width="48" height="48" alt="Emacs" /><br/>
-      Emacs
-    </td>
-  </tr>
-</table>
-
-<figure>
-  <img
-  src="https://developer.mozilla.org/static/img/favicon144.png"
-  alt="The beautiful MDN logo.">
-  <figcaption>MDN Logo</figcaption>
-</figure>
-<figure>
-  <img
-  src="https://developer.mozilla.org/static/img/favicon144.png"
-  alt="The beautiful MDN logo.">
-  <figcaption>MDN Logo</figcaption>
-</figure>
-
-  
+<span align="center" width="96" title="Ubuntu">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" />
+</span>
+<a href="https://github.com/fish-shell/fish-shell" align="center" width="96" title="fish">
+   <img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" width="48" height="48" alt="fish" />
+</a>
+<span align="center" width="96" title="Emacs">
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" width="48" height="48" alt="Emacs" />
+</span>  
 
 <!-- <img src="" width="48" height="48" alt="" /> -->
 
-## 🍻 Open Source Projects 
+## 🌐 Open Source Projects (created / maintained by me)
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="48" height="48" alt="Python" />
+
+
 
 
 <!--
