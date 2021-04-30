@@ -23,11 +23,14 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="48" height="48" alt="Python" />
 
-**doit**  task management & automation tool <br/>
-[:octocat:](https://github.com/pydoit/doit) 📆 2020-09-04  📦 0.33.1  🐍 3.5 - 3.8
+[**doit**](https://github.com/pydoit/doit)<br/>
+task management & automation tool <br/>
+📆 2020-09-04  📦 0.33.1  🐍 3.5 - 3.8
 
-**sqla-yaml-fixtures**  Load YAML data fixtures for SQLAlchemy  <br/>  
-[:octocat:](https://github.com/schettino72/sqla_yaml_fixtures) 📆 2021-03-29  📦 1.1.0  🐍 3.6 - 3.9
+
+[**sqla-yaml-fixtures**](https://github.com/schettino72/sqla_yaml_fixtures)<br/>
+Load YAML data fixtures for SQLAlchemy  <br/>
+📆 2021-03-29  📦 1.1.0  🐍 3.6 - 3.9
 
 **sphinx-press-theme**  A modern responsive theme for python's Sphinx documentation generator <br/>
 [:octocat:](https://github.com/schettino72/sphinx_press_theme) 📆 2019-11-02  📦 0.5.1  🐍 3.5 - 3.7
