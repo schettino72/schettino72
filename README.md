@@ -1,4 +1,4 @@
-### 💻 What I Use
+### 💻 How I Code
 
 
 <table border="0">
@@ -17,11 +17,25 @@
     </td>
   </tr>
 </table>
+
+<figure>
+  <img
+  src="https://developer.mozilla.org/static/img/favicon144.png"
+  alt="The beautiful MDN logo.">
+  <figcaption>MDN Logo</figcaption>
+</figure>
+<figure>
+  <img
+  src="https://developer.mozilla.org/static/img/favicon144.png"
+  alt="The beautiful MDN logo.">
+  <figcaption>MDN Logo</figcaption>
+</figure>
+
   
 
 <!-- <img src="" width="48" height="48" alt="" /> -->
 
-### Python Projects
+## 🍻 Open Source Projects 
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="48" height="48" alt="Python" />
 
