@@ -19,9 +19,14 @@
 
 <!-- <img src="" width="48" height="48" alt="" /> -->
 
-## 🌐 Open Source Projects (created / maintained by me)
+## 🌎 Open Source Projects (created / maintained by me)
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="48" height="48" alt="Python" />
+
+**doit** task management & automation tool <a href="https://github.com/pydoit/doit/">:octocat:</a> 
+📆 2020-09-04  📦 0.33.1  🐍 3.5 - 3.8
+
+
 
 
 
