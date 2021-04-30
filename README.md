@@ -1,17 +1,17 @@
 ### 💻 What I Use
 
 
-<table border="none">
+<table border="0">
   <tr>
-    <td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" /><br/>
       Ubuntu
     </td>
-    <td>
+    <td align="center" width="96">
      <img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" width="48" height="48" alt="fish" /><br/>
      <a href="https://github.com/fish-shell/fish-shell">fish</a>
     </td>
-    <td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" width="48" height="48" alt="Emacs" /><br/>
       Emacs
     </td>
