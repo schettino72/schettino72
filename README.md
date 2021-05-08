@@ -29,19 +29,19 @@ task management & automation tool <br/>
 
 [**sqla-yaml-fixtures**](https://github.com/schettino72/sqla_yaml_fixtures)<br/>
 Load YAML data fixtures for SQLAlchemy  <br/>
-📆 2021-03-29  📦 1.1.0  🐍 3.6 - 3.9
+📆 2021-03-29  📦 1.1.0  🐍 3.6 - 3.9 (SQLAlchemy 1.4.X)
 
 [**sphinx-press-theme**](https://github.com/schettino72/sphinx_press_theme) <br/>
 A modern responsive theme for python's Sphinx documentation generator <br/>
-📆 2019-11-02  📦 0.5.1  🐍 3.5 - 3.7
+📆 2021-05-08  📦 0.6.0  🐍 3.6 - 3.9 (Sphinx 3.X)
 
 [**pytest-incremental**](https://github.com/pytest-dev/pytest-incremental) <br/>
 an incremental test runner (pytest plugin) <br/>
-📆 2021-03-25  📦 0.6.0  🐍 3.6 - 3.9
+📆 2021-03-25  📦 0.6.0  🐍 3.6 - 3.9 (pytest 6.X) 
 
 [**pytest-ignore-flaky**](https://github.com/schettino72/pytest-ignore-flaky) <br/>
 ignore failures from flaky tests (pytest plugin) <br/>
-📆 2021-03-23  📦 2.0.0  🐍 3.6 - 3.9
+📆 2021-03-23  📦 2.0.0  🐍 3.6 - 3.9 (pytest 6.X)
 
 [**mergedict**](https://github.com/schettino72/mergedict) <br/>
 A Python *dict* with a *merge()* method.<br/>
