@@ -33,7 +33,7 @@ Load YAML data fixtures for SQLAlchemy  <br/>
 
 [**sphinx-press-theme**](https://github.com/schettino72/sphinx_press_theme) <br/>
 A modern responsive theme for python's Sphinx documentation generator <br/>
-📆 2021-05-08  📦 0.6.0  🐍 3.6 - 3.9 (Sphinx 3.X)
+📆 2021-05-15  📦 0.7.1  🐍 3.6 - 3.9 (Sphinx 4.X)
 
 [**pytest-incremental**](https://github.com/pytest-dev/pytest-incremental) <br/>
 an incremental test runner (pytest plugin) <br/>
