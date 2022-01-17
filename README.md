@@ -49,7 +49,7 @@ A Python *dict* with a *merge()* method.<br/>
 
 [**import-deps**](https://github.com/schettino72/import-deps) <br/>
 find python module imports <br/>
-📆 2018-06-24  📦 0.1.0  🐍 3.5 - 3.6
+📆 2022-01-17  📦 0.2.0  🐍 3.8 - 3.10
 
 
 
