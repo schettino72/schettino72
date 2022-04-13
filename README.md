@@ -25,7 +25,7 @@
 
 [**doit**](https://github.com/pydoit/doit)<br/>
 task management & automation tool <br/>
-📆 2021-12-1  📦 0.35.0  🐍 3.8 - 3.10
+📆 2022-04-07  📦 0.35.0  🐍 3.8 - 3.10
 
 [**sqla-yaml-fixtures**](https://github.com/schettino72/sqla_yaml_fixtures)<br/>
 Load YAML data fixtures for SQLAlchemy  <br/>
