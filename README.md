@@ -29,7 +29,7 @@ task management & automation tool <br/>
 
 [**sqla-yaml-fixtures**](https://github.com/schettino72/sqla_yaml_fixtures)<br/>
 Load YAML data fixtures for SQLAlchemy  <br/>
-📆 2021-03-29  📦 1.1.0  🐍 3.6 - 3.9 (SQLAlchemy 1.4.X)
+📆 2025-02-11  📦 1.2.0  🐍 3.8 - 3.12 (SQLAlchemy > 2.X)
 
 [**sphinx-press-theme**](https://github.com/schettino72/sphinx_press_theme) <br/>
 A modern responsive theme for python's Sphinx documentation generator <br/>
