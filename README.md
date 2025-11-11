@@ -27,6 +27,10 @@
 task management & automation tool <br/>
 📆 2022-04-07  📦 0.35.0  🐍 3.8 - 3.10
 
+[**rut**](https://github.com/schettino72/rut) <br/>
+rut - Run Unit Tests <br/>
+📆 2025-07-06  📦 0.2.1  🐍 3.12 - 3.13
+
 [**import-deps**](https://github.com/schettino72/import-deps) <br/>
 find python module imports <br/>
 📆 2025-11-11  📦 0.4.0  🐍 3.10 - 3.14
