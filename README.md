@@ -27,6 +27,10 @@
 task management & automation tool <br/>
 📆 2022-04-07  📦 0.35.0  🐍 3.8 - 3.10
 
+[**import-deps**](https://github.com/schettino72/import-deps) <br/>
+find python module imports <br/>
+📆 2025-11-11  📦 0.4.0  🐍 3.10 - 3.14
+
 [**sqla-yaml-fixtures**](https://github.com/schettino72/sqla_yaml_fixtures)<br/>
 Load YAML data fixtures for SQLAlchemy  <br/>
 📆 2025-02-11  📦 1.2.0  🐍 3.8 - 3.12 (SQLAlchemy > 2.X)
@@ -46,10 +50,6 @@ ignore failures from flaky tests (pytest plugin) <br/>
 [**mergedict**](https://github.com/schettino72/mergedict) <br/>
 A Python *dict* with a *merge()* method.<br/>
 📆 2020-01-28  📦 1.0.0  🐍 3.5 - 3.8
-
-[**import-deps**](https://github.com/schettino72/import-deps) <br/>
-find python module imports <br/>
-📆 2022-01-17  📦 0.2.0  🐍 3.8 - 3.10
 
 
 
