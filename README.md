@@ -33,7 +33,7 @@ rut - Run Unit Tests <br/>
 
 [**import-deps**](https://github.com/schettino72/import-deps) <br/>
 find python module imports <br/>
-📆 2025-01-10  📦 0.5.1  🐍 3.10 - 3.14
+📆 2026-01-10  📦 0.5.1  🐍 3.10 - 3.14
 
 [**sqla-yaml-fixtures**](https://github.com/schettino72/sqla_yaml_fixtures)<br/>
 Load YAML data fixtures for SQLAlchemy  <br/>
