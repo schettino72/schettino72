@@ -25,7 +25,7 @@
 
 [**doit**](https://github.com/pydoit/doit)<br/>
 task management & automation tool <br/>
-📆 2022-04-07  📦 0.35.0  🐍 3.8 - 3.10
+📆 2026-02-09  📦 0.37.0  🐍 3.10 - 3.13
 
 [**rut**](https://github.com/schettino72/rut) <br/>
 rut - Run Unit Tests <br/>
